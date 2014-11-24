@@ -78,6 +78,4 @@
 - [Yii源码阅读笔记 系列](http://youngsterxyf.github.io/tag/yii.html)
 
 
-## 结束
-
-> 谢 谢！
+## 谢 谢！
